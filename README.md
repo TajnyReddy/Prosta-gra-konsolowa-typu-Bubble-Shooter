@@ -1,1 +1,1 @@
-# Prosta-gra-konsolowa-typu-Bubble-Shooter
+Prosta gra konsolowa typu Bubble shooter napisana w języku C++. Umożliwia wybór ilości kolumn i wierszy, posiada losowo rozmieszczone bloki specjalne, liczba bloków zwiększa się co r+rnd rund. Sterowanie za pomocą klawiatury, brak animacji.
